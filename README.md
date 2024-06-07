@@ -10,8 +10,8 @@ Compilation
 
 Use Arduino to compile and install it on a WT32-ETH01.
 
-In nep-gw.ino you can change the SSID and paddword for the access point.
-In mqtt.ino you need to configure the addess of the MQTT server.
+In `nep-gw.ino` you can change the SSID and password for the access point. <BR>
+In `mqtt.ino` you need to configure the addess of the MQTT server.
 
 Usage
 -----
